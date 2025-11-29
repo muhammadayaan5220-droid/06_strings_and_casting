@@ -1,0 +1,4 @@
+Function,Description,Example Input,Example Output
+int(),Converts to Integer,"""10""",10
+float(),Converts to Float,"""10.5""",10.5
+str(),Converts to String,500,"""500"""
