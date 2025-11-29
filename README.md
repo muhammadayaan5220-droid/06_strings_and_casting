@@ -1,4 +1,4 @@
-# 06_strings_and_casting
+
 # 🧵 06: Strings and Type Casting
 
 ### 🧠 Learning Outcomes
